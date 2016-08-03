@@ -1,5 +1,9 @@
 ﻿#!c:/python34/python.exe
 # -*- coding: utf-8 -*-
+#COPYRIGHT TO:
+#Mateusz Zaremba <physics and java implementation>
+#Krzystof Łopatowski <java implementation>
+#Kacper Pikulski <this python port of #gravity>
 import math as m
 from time import sleep
 import os
